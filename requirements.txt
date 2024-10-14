@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+scikit-learn  # Used for EllipticEnvelope in the outlier detection
